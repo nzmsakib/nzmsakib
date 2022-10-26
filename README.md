@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nzmsakib
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React, Angular & Node
 - 📫 How to reach me <a href="mailto:engrsakibcse@outlook.com">Email</a>
 
 <!---
